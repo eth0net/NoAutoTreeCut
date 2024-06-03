@@ -1,8 +1,6 @@
 # ![NoAutoTreeCut](./About/Preview.png)
 
-WARNING: ALPHA VERSION, NOT FULLY TESTED!
-
-Prevent your pawns automatically cutting trees and uproot them instead!
+Stop pawns automatically cutting trees and uproot them instead!
 
 **Commissioned in the RimWorld Mod Market**
 
@@ -18,8 +16,6 @@ I plan to add support for automatically switching the behaviour based on pawn vi
 and adjusting the available settings to switch the extraction behaviour between OFF, AUTO, and ON.
 
 ## Existing Saves
-
-DISREGARD THIS FOR ALPHA VERSION
 
 This mod should be safe to add or remove from saves.
 
